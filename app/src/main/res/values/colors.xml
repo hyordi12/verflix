@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#FF5722</color> <!-- Un color anaranjado cálido -->
+    <color name="colorPrimaryDark">#E64A19</color> <!-- Un tono más oscuro del color primario -->
+    <color name="colorAccent">#FFC107</color> <!-- Un color acentuado amarillo -->
+    <color name="colorBackground">#303030</color> <!-- Un color de fondo oscuro -->
+    <color name="colorTextPrimary">#FFFFFF</color> <!-- Color blanco para el texto -->
+    <color name="colorTextSecondary">#BDBDBD</color> <!-- Color gris claro para texto secundario -->
+    <color name="colorButton">#FFEB3B</color>
+    <color name="celeste">#00BFFF</color>
+    <color name="buttonColor">#FF4081</color> <!-- Color de los botones -->
+    <color name="buttonTextColor">#FFFFFF</color> <!-- Color del texto de los botones -->
+    <color name="textColor">#FFFFFF</color>
+</resources>
